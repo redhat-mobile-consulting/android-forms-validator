@@ -1,0 +1,39 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tab_text_size">16dp</dimen>
+
+    <dimen name="half_screen">160dp</dimen>
+    <dimen name="margin_field">22dp</dimen>
+    <dimen name="drawable_padding">12dp</dimen>
+    <dimen name="profile_height">120dp</dimen>
+    <dimen name="tablerow_margin_bottom">12dp</dimen>
+    <dimen name="padding_toolbar">7dp</dimen>
+    <dimen name="profile_margin_right">15dp</dimen>
+    <dimen name="list_item_padding">14dp</dimen>
+    <dimen name="box">14dp</dimen>
+    <dimen name="card_text">14dp</dimen>
+    <dimen name="margin_text_line">8dp</dimen>
+    <dimen name="wr_progressbar_width">110dp</dimen>
+    <dimen name="wr_progress_margin_bottom">67dp</dimen>
+    <dimen name="toggle_button_img_margin">12dp</dimen>
+    <dimen name="toggle_btn_padding">30dp</dimen>
+    <dimen name="gen_padding">6dp</dimen>
+    <dimen name="gen_padding_1">12dp</dimen>
+    <dimen name="shortcut_height">0dp</dimen>
+
+    <dimen name="nav_title_left_margin">12dp</dimen>
+
+    <dimen name="card_profile_text_padding">12dp</dimen>
+
+    <dimen name="space_title_content">12dp</dimen>
+    <dimen name="calendar_head_btn">12dp</dimen>
+    <dimen name="home_ronund_btn_size">36dp</dimen>
+    <dimen name="status_bar_height">36dp</dimen>
+
+</resources>
